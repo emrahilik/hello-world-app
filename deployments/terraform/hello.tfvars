@@ -1,0 +1,6 @@
+credentials = "common-service-account.json"
+google_bucket_name = "my-fancy-project"
+deployment_name = "hello-world"
+google_project_id = "clusterdeployment"
+google_domain_name = "yusufilik.com"
+deployment_environment = "dev"
